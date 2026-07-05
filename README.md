@@ -4,7 +4,7 @@
 Minecrunch a userscript-based enhancement suite for Minefun.io that gives players extra tools to improve their gameplay experience.
 
 <div align="center">
-<img src="https://github.com/EverlastingUc/Minecrunch/blob/main/%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%81%20Minecrunch.png?raw=true" width=300/>
+<img src="https://github.com/EverlastingUc/Minecrunch/blob/main/Assets/%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%81%20Minecrunch.png." width=300/>
 </div>
 
 ## 🚀 Features
